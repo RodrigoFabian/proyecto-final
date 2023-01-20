@@ -1,0 +1,37 @@
+
+
+div#general {
+    margin:auto;
+    margin-top: 50px;
+    width: 960px;
+    height: 800px;
+    background-color: rgba(0, 255, 255, 0.89);
+}
+
+div#ofertas{
+    float: right;
+    width: 300px;
+    height:500px;
+    background-color: aquamarine;
+}
+
+div#novedades{
+    width:640px;
+    height: 200px;
+    background-color: aquamarine;
+}
+
+div#body{
+    margin-top: 20px;
+    width: 640px;
+    height:580px;
+    background-color: aquamarine;
+}
+
+div#logo{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
